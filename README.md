@@ -1,5 +1,4 @@
-
-# 🛠 Raspberry Pi Setup Guide (Dev Environment with SSH, Docker, and VSCode)
+# 🛠 Raspberry Pi Setup Guide
 
 ---
 
