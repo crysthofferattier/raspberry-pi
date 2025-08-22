@@ -121,6 +121,8 @@ code --install-extension ms-vscode-remote.remote-ssh
 code --install-extension ms-azuretools.vscode-docker
 ```
 
+---
+
 ### Git config
 
 ✅ Enable credential caching
